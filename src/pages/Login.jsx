@@ -72,7 +72,7 @@ export default function Login() {
     <div className="h-screen flex justify-center items-center">
       <div className="bg-white  w-[85vw] lg:w-[30vw] p-3 shadow rounded mb-16 lg:mb-0">
         <div className="w-full text-center">
-          <h1 className="text-lg font-bold">Nasara Admin</h1>
+          <h1 className="text-lg font-bold">Lelin Admin</h1>
         </div>
         <p className="text-xs text-gray-500 text-center mb-2">Login or Signup</p>
 
